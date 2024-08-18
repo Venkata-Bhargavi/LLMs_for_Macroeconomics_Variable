@@ -1,0 +1,8 @@
+{
+    "data_file_India": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/IRSTCI01USQ156N_SR_Interest_Rates_USA.csv",
+    "country": "USA",
+    "horizon": 12,
+    "column_name": "IRSTCI01USQ156N",
+    "train_output_path":"/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test",
+    "test_output_path": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test"
+}
