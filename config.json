@@ -1,8 +1,11 @@
 {
-    "data_file_India": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/IRSTCI01USQ156N_SR_Interest_Rates_USA.csv",
-    "country": "USA",
+    "data_file_India": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/IRSTPI01INM156N_Call_Money_Interest_Rate_India.csv",
+    "country": "India",
     "horizon": 12,
-    "column_name": "IRSTCI01USQ156N",
+    "column_name": "IRSTPI01INM156N",
     "train_output_path":"/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test",
-    "test_output_path": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test"
+    "test_output_path": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test",
+    "train_dataset": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test/India_12_train.csv",
+    "test_dataset": "/Users/bhargavi/PycharmProjects/LLMs_for_Macroeconomics_Variable/data/train_test/India_12_test.csv"
+
 }
